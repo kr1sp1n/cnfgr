@@ -1,4 +1,4 @@
 cnfgr
 =====
 
-simple configuration management
+simple config file generation
