@@ -1,0 +1,4 @@
+cnfgr
+=====
+
+simple configuration management
